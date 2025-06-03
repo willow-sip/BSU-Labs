@@ -1,0 +1,5 @@
+4
+Star AlphaCentauri 5800
+Planet Mars -60 1
+Asteroid Vesta 3 4 5 0.5 0.5 0.5 200
+SpaceShip Voyager 1 1 1 0 0 0 30000 10
